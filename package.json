@@ -18,5 +18,8 @@
   "homepage": "https://github.com/rstropek-teaching/deezer-search-quiz-4bhif-Grubchri#readme",
   "devDependencies": {
     "cors-anywhere": "^0.4.0"
+  },
+  "dependencies": {
+    "typescript": "^2.5.3"
   }
 }
